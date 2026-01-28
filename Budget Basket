@@ -74,21 +74,20 @@ index.html
 
 <header>
   <h1>Budget Basket</h1>
-  <p>Affordable Groceries & Household Essentials</p>
+  <p>Affordable groceries & household essentials for our local community.<br/>Serving families across the Vaal Triangle.</p>
 </header>
 
 <section>
   <div class="card">
     <h2>About Us</h2>
     <p>
-      We are a local Vaal Triangle buy & sell business providing affordable groceries
-      and household essentials to our community. Perfect for families, students,
-      and anyone looking to save money.
+      Budget Basket is a friendly, community-focused local business created to help households save money on everyday essentials.
+      We believe everyone deserves access to affordable groceries without travelling far or paying more than necessary.
     </p>
   </div>
 
   <div class="card">
-    <h2>Popular Products</h2>
+    <h2>Popular Everyday Essentials</h2>
     <div class="products">
       <div class="product">Rice (2kg)</div>
       <div class="product">Sugar (2kg)</div>
@@ -102,23 +101,26 @@ index.html
   <div class="card">
     <h2>How It Works</h2>
     <ol>
-      <li>Send us a WhatsApp message with your order</li>
-      <li>Confirm availability and price</li>
-      <li>Collect or arrange delivery</li>
-      <li>Cash or EFT on collection</li>
+      <li>Browse our range of everyday essentials</li>
+      <li>Message us to place your order</li>
+      <li>Confirm availability and collection details</li>
+      <li>Collect your order or arrange delivery</li>
     </ol>
   </div>
 
   <div class="cta">
-    <h2>Order Now</h2>
-    <p>Fast • Affordable • Local</p>
-    <a href="#" class="button">WhatsApp Us</a>
+    <h2>Order With Ease</h2>
+    <p>WhatsApp ordering coming soon 💬<br/>Weekly specials updated regularly.</p>
+    <a href="#" class="button">Contact Us</a>
   </div>
 </section>
 
 <footer>
   <p>Budget Basket | Vanderbijlpark • Vereeniging • Sasolburg</p>
 </footer>
+
+</body>
+</html>
 
 </body>
 </html>
