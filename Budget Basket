@@ -1,0 +1,124 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Budget Basket | Affordable Groceries & Toiletries</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background: #2e7d32;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #2e7d32;
+    }
+    .products {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+    }
+    .product {
+      background: #fafafa;
+      padding: 15px;
+      border-radius: 8px;
+      text-align: center;
+      border: 1px solid #ddd;
+    }
+    .cta {
+      background: #2e7d32;
+      color: white;
+      padding: 25px;
+      text-align: center;
+      border-radius: 12px;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      font-size: 14px;
+      background: #e0e0e0;
+    }
+    a.button {
+      display: inline-block;
+      background: white;
+      color: #2e7d32;
+      padding: 12px 20px;
+      border-radius: 25px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Budget Basket</h1>
+  <p>Affordable Groceries & Household Essentials</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>About Us</h2>
+    <p>
+      We are a local Vaal Triangle buy & sell business providing affordable groceries
+      and household essentials to our community. Perfect for families, students,
+      and anyone looking to save money.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>Popular Products</h2>
+    <div class="products">
+      <div class="product">Rice (2kg)</div>
+      <div class="product">Sugar (2kg)</div>
+      <div class="product">Maize Meal (2kg)</div>
+      <div class="product">Cooking Oil (500ml)</div>
+      <div class="product">Washing Powder</div>
+      <div class="product">Soap & Toiletries</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>How It Works</h2>
+    <ol>
+      <li>Send us a WhatsApp message with your order</li>
+      <li>Confirm availability and price</li>
+      <li>Collect or arrange delivery</li>
+      <li>Cash or EFT on collection</li>
+    </ol>
+  </div>
+
+  <div class="cta">
+    <h2>Order Now</h2>
+    <p>Fast • Affordable • Local</p>
+    <a href="#" class="button">WhatsApp Us</a>
+  </div>
+</section>
+
+<footer>
+  <p>Budget Basket | Vanderbijlpark • Vereeniging • Sasolburg</p>
+</footer>
+
+</body>
+</html>
